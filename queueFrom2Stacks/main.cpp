@@ -50,6 +50,8 @@ int main() {
     enQueue(10);
     enQueue(20);
     enQueue(30);
+    enQueue(80);
+    enQueue(60);
     show();
     deQueue();
     show();
